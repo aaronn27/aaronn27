@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaronn27" alt="aaronn27" /></a> </p>
 
-- 🔭 I’m currently working on [Grocery Store](https://github.com/aaronn27/GroceryWebsite)
+- 🔭 I’m currently working on [Grocery Store Website](https://github.com/aaronn27/GroceryWebsite)
 
 - 🌱 I’m currently learning **Cyber Security, Bootstrap, MERN**
 
